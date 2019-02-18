@@ -1,6 +1,7 @@
-# Hux Blog
+# XangyR Blog
+Forked from Hux
 
-### [View Live Hux Blog &rarr;](https://xangyr.github.io)
+### [View xangyr web &rarr;](https://xangyr.github.io)
 
 ![](http://huangxuan.me/img/blog-desktop.jpg)
 
