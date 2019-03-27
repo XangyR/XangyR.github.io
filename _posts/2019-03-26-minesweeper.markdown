@@ -4,7 +4,7 @@ title:      "Minesweeper"
 subtitle:   "Finally do somthing"
 date:       2019-03-26 20:53:00
 author:     "XangyR"
-header-img: "img/post-bg-2015.jpg"
+header style: "text"
 catalog: true
 tags:
     - School
