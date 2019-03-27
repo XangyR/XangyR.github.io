@@ -13,4 +13,4 @@ tags:
 > “Yeah It's on. Finally program something”
 # 终于，写了点东西了
 need jre  
-[minesweeper](https://github.com/xangyr/Minesweeper/tree/master/installed_folder)
+[minesweeper](https://github.com/xangyr/Minesweeper/tree/master/minesweeper/src/minesweeper)
